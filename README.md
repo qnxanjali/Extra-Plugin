@@ -1,7 +1,7 @@
-# Extra Plugins For [VIPMUSIC](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC)
+# Extra Plugins For [ANJALI MUSIC](https://github.com/qnxanjali/TheAnjali)
 
 
-## Deployment for [VIPMUSIC](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC)
+## Deployment for [ANJALI MUSIC](https://github.com/qnxanjali/TheAnjali)
 
 #### 🚀 Heroku Deployment
 
@@ -11,8 +11,8 @@
 
 
 ### 🖇 VPS Deployment
-- Get your [Necessary Variables](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/sample.env)
-- clone repo : `git clone https://github.com/THE-VIP-BOY-OP/VIPMUSIC && cd VIPMUSIC`
+- Get your [Necessary Variables](https://github.com/qnxanjali/TheAnjali/blob/master/sample.env)
+- clone repo : `git clone https://github.com/qnxanjali/TheAnjali && cd TheAnjali`
 - Setup by : `bash setup`
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
@@ -21,4 +21,4 @@
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 
 
-# For more help checkout [VIPMUSIC](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC)
+# For more help checkout [ANJALI MUSIC](https://github.com/qnxanjali/TheAnjali)
