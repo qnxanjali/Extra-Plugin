@@ -160,7 +160,7 @@ async def greet_new_members(_, member: ChatMemberUpdated):
                             [
                                 InlineKeyboardButton(
                                     f"✪ ᴛᴀᴘ ᴛᴏ ᴄʟᴏsᴇ ✪",
-                                    url=f"https://t.me/ur_rishu_143",
+                                    url=f"https://t.me/qnxanjaliabout",
                                 )
                             ]
                         ]
