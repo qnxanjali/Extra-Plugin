@@ -3047,7 +3047,7 @@ async def join_watcher(_, message):
 import random
 import asyncio
 from pyrogram import filters
-LOG = "VIP_MUSIC_VC_BOT" #Dont change it because it fix all errors
+LOG = "TheAnjaliMusicBot" #Dont change it because it fix all errors
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 import os
 from config import LOG_GROUP_ID
